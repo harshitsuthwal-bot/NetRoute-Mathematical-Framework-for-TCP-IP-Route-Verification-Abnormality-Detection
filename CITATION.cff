@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this mathematical framework or software in academic research, please cite it as below."
+authors:
+  - family-names: "NetRoute Research Group"
+    given-names: "Theory & Systems Team"
+title: "A Mathematical Framework for TCP/IP Route Verification and Abnormality Detection"
+version: 1.0.0
+date-released: 2026-10-15
+license: MIT
+repository-code: "https://github.com/netroute-research/netroute"
+keywords:
+  - "routing semirings"
+  - "algebraic routing"
+  - "TCP/IP route verification"
+  - "BGP valley-free routing"
+  - "route flap damping"
+  - "entropy collapse"
+  - "spectral graph laplacian"
